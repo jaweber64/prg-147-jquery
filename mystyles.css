@@ -1,0 +1,40 @@
+body {
+    font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    background: #444;
+    padding:10px; }
+
+h2 {font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;  }
+
+h1,h3 {font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;}
+h1 {text-align: center;}
+
+h3 {cursor: pointer;
+    position: relative;}
+
+.container {
+    max-width: 960px;
+    background-color: #EEE;
+    margin: 0 auto;
+    text-align: left;
+    color:#444; }
+
+.myThumb {width:30px;
+    height: 30px;
+    margin-right: 5px;
+    padding-right: 5px;}
+
+div.mybdr {border-style: solid;
+    border-width: 3px;
+    border-color: #444;}
+
+.head{
+    background-color:#444;
+    color: #EEE; }
+
+.description {display: none;}
+
+
