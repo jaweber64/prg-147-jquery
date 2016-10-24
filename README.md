@@ -1,2 +1,2 @@
-# prg-147-jquery
+# prg147-jquery
 web page exploring jquery effects.
